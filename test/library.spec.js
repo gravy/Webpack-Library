@@ -1,3 +1,5 @@
+/*global describe, it, before */
+
 const chai = require('chai');
 const Library = require('../lib/Library.js');
 
